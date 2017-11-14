@@ -1,0 +1,7 @@
+@font-face {
+	font-family: 'Proxima Nova Extrabold';
+	src: url('Proxima Nova Extrabold.eot');
+	src: local('☺'), url('Proxima Nova Extrabold.woff') format('woff'), url('Proxima Nova Extrabold.ttf') format('truetype'), url('Proxima Nova Extrabold.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
